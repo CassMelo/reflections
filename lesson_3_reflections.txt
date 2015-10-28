@@ -8,3 +8,15 @@ stay up-to-date with your remote repository?
 
 If I don't want to bring some changes from the remote to my local repository.
 
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+Forks: used when i want to make a copy from a GitHub repository to another GitHub
+repository
+
+Clones: when I want to coppy a project from one place to another, usually GitHub to
+local computer or between local computers
+
+Branches: is a sequence of commits that one project has.
+
+
