@@ -11,4 +11,40 @@ It is a temporary area I can keep my files before a commit. I can make
 one commit with more than one file and keep my files safe while i am
 working on them befere a logic unit is done.
 
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+I would add only the files that makes sense for the logical change
+I want to commit.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+
+Branches would be helpful when I'll try some new things or if I am
+making a different version of the project I am working on.
+In this case, it would be separated from the original version.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams make easier to illustrate and undertand the branches in
+your project.
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+When you merge two branches, all the updates made on both branches,
+are put together in one commit. Also the branch that is receiving
+the updates becames the parent for the commits from the old branch.
+All the commits will be in the same tree.
+
+What are the pros and cons of Git’s automatic merging vs. always
+doing merges manually?
+pros - when git can do the merge automaticaly you can save the
+time and changes of making mistakes while merging files
+cons - whenever it's not possible to find out the merge we
+have to do it manually.
+
+
+
+
 
