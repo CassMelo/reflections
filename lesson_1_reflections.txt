@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    When I compare two files automaticaly I'm able to see every difference
+    between them. In this case my work to find those differences becomes
+    easier and more accurate.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Acessing the history of a file I could learn with past content, I could find
+    some pattern to use again and I also could restore a previous version that
+    was working fine and now is not.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   When we choose mannually, every version has a complete maeaning and it works
+   properly. If the version is generate automaticaly you can have a version that
+   doesn't work and also too many versions of the file.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    In some cases one meaningful change affects more than one file. In this case
+    it's necessary to keep track of all those changes as a block instead of
+    each file separate.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    With git log I can see when the commit occured and a brief description of
+    what changed. With git diff I can see exactly where and what changed
+    inside the file.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It gives me the chance to try new solutions but at the same time I have a
+    place to retrieve one of my older versions in case I messed something up
+    that wasnt supposed to change.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to use git for my projects from my Front-End Web Developer
