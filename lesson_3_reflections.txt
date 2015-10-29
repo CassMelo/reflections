@@ -25,3 +25,8 @@ locally?
 It creates a link between my updates with others that could be generated from
 other collaborators.
 
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+Of course with git and github are easier. If i don't use these resources I
+would have to create different folder for each "commit" I would make and
+I would need to check all the changes mannualy.
