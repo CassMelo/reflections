@@ -30,3 +30,11 @@ and what would be harder?
 Of course with git and github are easier. If i don't use these resources I
 would have to create different folder for each "commit" I would make and
 I would need to check all the changes mannualy.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+All the time you need to make a big change or a conceptual change you should
+use a different branch. It makes easier to have the master branch untouched
+while working on the new feature as well helps to share this project with others.
+
